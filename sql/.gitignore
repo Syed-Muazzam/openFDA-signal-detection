@@ -1,0 +1,8 @@
+# Ignore raw data files
+*.csv
+*.txt
+*.zip
+data/
+
+# Ignore Power BI temp files
+*.pbix.temp
