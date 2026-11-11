@@ -5,7 +5,7 @@ End-to-end pharmacovigilance pipeline and Power BI dashboard analyzing openFDA F
 
 A data engineering and visualization pipeline that extracts drug safety signals from the openFDA FAERS (FDA Adverse Event Reporting System) database. It uses PostgreSQL to calculate Proportional Reporting Ratios (PRR) and Power BI for interactive dashboarding.
 
-![Dashboard Preview](assets/dashboard_hero.png)
+![Dashboard Preview](faers_surveillance.pdf)
 
 ## Tech Stack
 * **Database:** PostgreSQL
