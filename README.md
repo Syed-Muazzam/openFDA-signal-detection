@@ -43,3 +43,7 @@ The PRR identifies statistically significant disproportionality in adverse drug 
 3. Run the regex cleaning updates.
 4. Point the Power BI `.pbix` file to the PostgreSQL instance to visualize the PRR query results.
 
+## Data Source
+* **Dataset:** US FDA Adverse Event Reporting System (FAERS) via [openFDA](https://open.fda.gov/data/faers/).
+* **Data Format:** Quarterly ASCII/CSV files comprising patient demographics (`DEMO`), reported drugs (`DRUG`), and adverse reactions (`REAC`).
+
